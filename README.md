@@ -35,8 +35,7 @@ Let’s first read our data and load the necessary libraries.
 
 # Story Generation and Visualization from Tweets
 
-In this section, we will explore the cleaned tweets text. Exploring and visualizing data, no matter whether its text or any other data, is an essential step in gaining insights. Do not limit yourself to only these methods told in this tutorial, feel free to explore the data as much as possible.
-
+In this section, we will explore the cleaned tweets text. Exploring and visualizing data, no matter whether its text or any other data, is an essential step in gaining insights.
 Before we begin exploration, we must think and ask questions related to the data in hand. A few probable questions are as follows:
 
 What are the most common words in the entire dataset?
@@ -45,8 +44,3 @@ How many hashtags are there in a tweet?
 Which trends are associated with my dataset?
 Which trends are associated with either of the sentiments? Are they compatible with the sentiments?
 
-# End Notes
-
-In this article, we learned how to approach a sentiment analysis problem. We started with preprocessing and exploration of data. Then we extracted features from the cleaned text using Bag-of-Words and TF-IDF. Finally, we were able to build a couple of models using both the feature sets to classify the tweets.
-
-Did you find this article useful? Do you have any useful trick? Did you use any other method for feature extraction? Feel free to discuss your experiences in comments below or on the discussion portal and we’ll be more than happy to discuss.
